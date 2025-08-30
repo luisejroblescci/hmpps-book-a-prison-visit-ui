@@ -80,3 +80,4 @@ This application has several changes to core files inherited from the HMPPS Type
 * a new NPM task (`oidc-wiremock`) and customisations to `start-feature` and `watch-node-feature` that ensure the OIDC Discovery Endpoint mock and a private key is available before the application starts
 
 This project is tested with BrowserStack
+<!-- Updated on 2025-08-29 20:48:26 by automated script -->
